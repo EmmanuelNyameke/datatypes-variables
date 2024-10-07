@@ -1,0 +1,14 @@
+C:\Users\HELLO\Source\Repos\AverageScoreApp\bin\Debug\net8.0\AverageScoreApp.exe
+C:\Users\HELLO\Source\Repos\AverageScoreApp\bin\Debug\net8.0\AverageScoreApp.deps.json
+C:\Users\HELLO\Source\Repos\AverageScoreApp\bin\Debug\net8.0\AverageScoreApp.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\AverageScoreApp\bin\Debug\net8.0\AverageScoreApp.dll
+C:\Users\HELLO\Source\Repos\AverageScoreApp\bin\Debug\net8.0\AverageScoreApp.pdb
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\AverageScoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\AverageScoreApp.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\AverageScoreApp.AssemblyInfo.cs
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\AverageScoreApp.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\AverageScoreApp.dll
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\refint\AverageScoreApp.dll
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\AverageScoreApp.pdb
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\AverageScoreApp.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\AverageScoreApp\obj\Debug\net8.0\ref\AverageScoreApp.dll

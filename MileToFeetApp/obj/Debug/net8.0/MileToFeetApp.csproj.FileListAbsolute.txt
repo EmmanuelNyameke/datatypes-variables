@@ -1,0 +1,14 @@
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\MileToFeetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\MileToFeetApp.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\MileToFeetApp.AssemblyInfo.cs
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\MileToFeetApp.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\MileToFeetApp\bin\Debug\net8.0\MileToFeetApp.exe
+C:\Users\HELLO\Source\Repos\MileToFeetApp\bin\Debug\net8.0\MileToFeetApp.deps.json
+C:\Users\HELLO\Source\Repos\MileToFeetApp\bin\Debug\net8.0\MileToFeetApp.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\MileToFeetApp\bin\Debug\net8.0\MileToFeetApp.dll
+C:\Users\HELLO\Source\Repos\MileToFeetApp\bin\Debug\net8.0\MileToFeetApp.pdb
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\MileToFeetApp.dll
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\refint\MileToFeetApp.dll
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\MileToFeetApp.pdb
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\MileToFeetApp.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\MileToFeetApp\obj\Debug\net8.0\ref\MileToFeetApp.dll

@@ -1,0 +1,14 @@
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\bin\Debug\net8.0\MileToKilometerApp.exe
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\bin\Debug\net8.0\MileToKilometerApp.deps.json
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\bin\Debug\net8.0\MileToKilometerApp.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\bin\Debug\net8.0\MileToKilometerApp.dll
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\bin\Debug\net8.0\MileToKilometerApp.pdb
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\MileToKilometerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\MileToKilometerApp.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\MileToKilometerApp.AssemblyInfo.cs
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\MileToKilometerApp.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\MileToKilometerApp.dll
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\refint\MileToKilometerApp.dll
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\MileToKilometerApp.pdb
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\MileToKilometerApp.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\MileToKilometerApp\obj\Debug\net8.0\ref\MileToKilometerApp.dll

@@ -1,0 +1,14 @@
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\bin\Debug\net8.0\GramsToPoundsApp.exe
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\bin\Debug\net8.0\GramsToPoundsApp.deps.json
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\bin\Debug\net8.0\GramsToPoundsApp.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\bin\Debug\net8.0\GramsToPoundsApp.dll
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\bin\Debug\net8.0\GramsToPoundsApp.pdb
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\GramsToPoundsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\GramsToPoundsApp.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\GramsToPoundsApp.AssemblyInfo.cs
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\GramsToPoundsApp.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\GramsToPoundsApp.dll
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\refint\GramsToPoundsApp.dll
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\GramsToPoundsApp.pdb
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\GramsToPoundsApp.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\GramsToPoundsApp\obj\Debug\net8.0\ref\GramsToPoundsApp.dll
